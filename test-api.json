@@ -1,6 +1,6 @@
 [
 
-"https://dogapi.dog/api/v2/breeds?page%5Bnumber%5D=10&page%5Bsize%5D=1",
-"https://dogapi.dog/api/v2/facts?limit=1"
+"https://dogapi.dog/api/v2/groups/85d5a702-057f-42e3-a24c-b56e0aa94bf9",
+"https://dogapi.dog/api/v2/breeds/8355b9c9-3724-477d-858a-c1c1c0f1743f"
 
 ]
